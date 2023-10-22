@@ -1,15 +1,15 @@
-[submodule "thirdparty/glfw"]
-	path = thirdparty/glfw
+[submodule "external/glfw"]
+	path = external/glfw
 	url = https://github.com/glfw/glfw.git
-[submodule "thirdparty/assimp"]
-	path = thirdparty/assimp
+[submodule "external/assimp"]
+	path = external/assimp
 	url = https://github.com/assimp/assimp.git
-[submodule "thirdparty/glm"]
-	path = thirdparty/glm
+[submodule "external/glm"]
+	path = external/glm
 	url = https://github.com/g-truc/glm.git
-[submodule "thirdparty/stb"]
-	path = thirdparty/stb
+[submodule "external/stb"]
+	path = external/stb
 	url = https://github.com/nothings/stb.git
-[submodule "thirdparty/glad"]
-	path = thirdparty/glad
+[submodule "external/glad"]
+	path = external/--force
 	url = https://github.com/Dav1dde/glad.git
